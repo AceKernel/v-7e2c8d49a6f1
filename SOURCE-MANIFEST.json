@@ -1,0 +1,247 @@
+{
+  "repository": "https://github.com/AceKernel/v-7e2c8d49a6f1",
+  "original_pdf_count": 24,
+  "original_pdf_pages": 385,
+  "sources": [
+    {
+      "title": "Logic",
+      "pdf": "logic.pdf",
+      "text": "logic.md",
+      "topic": "Logic and proof methods",
+      "pages": 5,
+      "bytes": 61523,
+      "sha256": "6c9a2f4327f5d06203dc3e101a270cd02b8dabe268146bfeb75607d0e7b45d1e",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Notation",
+      "pdf": "notation.pdf",
+      "text": "notation.md",
+      "topic": "Course notation",
+      "pages": 4,
+      "bytes": 40751,
+      "sha256": "de3cb42588aeae6fad904b705c3c62b6f792360c34bddfef09bb030ffa2eb430",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 1",
+      "pdf": "lecture-01.pdf",
+      "text": "lecture-01.md",
+      "topic": "Norms, sequences, topology and compactness",
+      "pages": 30,
+      "bytes": 446542,
+      "sha256": "f12a5639e8db0fcb5b6396498ee373f92d27417ed372e32669d1a1a03afc12ed",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 2",
+      "pdf": "lecture-02.pdf",
+      "text": "lecture-02.md",
+      "topic": "Continuity and differentiation",
+      "pages": 33,
+      "bytes": 743372,
+      "sha256": "bc565abde30997bdbd0b64470609f24d2ef85204194cbefffce8f3f3e43fc7cf",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 3",
+      "pdf": "lecture-03.pdf",
+      "text": "lecture-03.md",
+      "topic": "Differentiability, partials, gradient and approximation",
+      "pages": 31,
+      "bytes": 2163917,
+      "sha256": "142c6eb45327e21104110a04881a5a4a17b6959cc2c6a73fe926abda931d4540",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 4",
+      "pdf": "lecture-04.pdf",
+      "text": "lecture-04.md",
+      "topic": "Multivariable chain rule, Hessian and implicit functions",
+      "pages": 25,
+      "bytes": 320112,
+      "sha256": "46d66e37df7e61a3342b8018c2e797f1120e9ec9bd4464877ee991a6f00694b6",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 5",
+      "pdf": "lecture-05.pdf",
+      "text": "lecture-05.md",
+      "topic": "Span, independence, rank and linear equations",
+      "pages": 26,
+      "bytes": 225346,
+      "sha256": "caaea1b507dacb0d0bb7e6a9927a4ec9fcf9825e5c20af3e2b094e511dc72e90",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 6",
+      "pdf": "lecture-06.pdf",
+      "text": "lecture-06.md",
+      "topic": "Cones, Farkas and feasibility",
+      "pages": 26,
+      "bytes": 215802,
+      "sha256": "9e3c9e710361d3f6a3ec220f261f0b1b9e4d2f41a230654513136bd1c01a0e76",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 7",
+      "pdf": "lecture-07.pdf",
+      "text": "lecture-07.md",
+      "topic": "Convexity and concavity",
+      "pages": 30,
+      "bytes": 924987,
+      "sha256": "3fc9fa5ab61abe7beccd448376307eac556843e82d2078c7ff1d8daa0186f110",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 8",
+      "pdf": "lecture-08.pdf",
+      "text": "lecture-08.md",
+      "topic": "Unconstrained optimisation and existence",
+      "pages": 25,
+      "bytes": 506667,
+      "sha256": "17ffd9d76f397172b7871d7ef5ccaf8dc436c4fa056cd4f50030e18eca860290",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 9",
+      "pdf": "lecture-09.pdf",
+      "text": "lecture-09.md",
+      "topic": "Linear programming, duality and shadow prices",
+      "pages": 26,
+      "bytes": 284060,
+      "sha256": "e82fd743a307196752d53d620eacf58283fb91f58d687c6889589945c5245b4f",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 10",
+      "pdf": "lecture-10.pdf",
+      "text": "lecture-10.md",
+      "topic": "Complementary slackness and Lagrange multipliers",
+      "pages": 28,
+      "bytes": 276397,
+      "sha256": "e1d6d940b9c56cc368d4d9a8235d6a54a90b10ac3d3bed1012897797b351f055",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Lecture 11",
+      "pdf": "lecture-11.pdf",
+      "text": "lecture-11.md",
+      "topic": "KKT and sufficiency",
+      "pages": 25,
+      "bytes": 316168,
+      "sha256": "23e12d2dea84e479664df5325e721b62518df7f549344c0f32865a6d120656d5",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 2 solutions",
+      "pdf": "tutorial-02-solutions.pdf",
+      "text": "tutorial-02-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 6,
+      "bytes": 480861,
+      "sha256": "690829a3aa057d8465a6707e8879db4f59118d877a45d5ff8cb8185080074fac",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 3 solutions",
+      "pdf": "tutorial-03-solutions.pdf",
+      "text": "tutorial-03-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 5,
+      "bytes": 335155,
+      "sha256": "b23abafc084d6e8ba599bf4334dd60636d97d6571353c2497bf75f3291013ec9",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 4 solutions",
+      "pdf": "tutorial-04-solutions.pdf",
+      "text": "tutorial-04-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 5,
+      "bytes": 339342,
+      "sha256": "4421c5591b1b4af0ad112bd753b5a986127ad70f8b20c1a7e6caa27a8316ec23",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 5 solutions",
+      "pdf": "tutorial-05-solutions.pdf",
+      "text": "tutorial-05-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 5,
+      "bytes": 323919,
+      "sha256": "39e04c0123b74e01286ccea807b40c57c68215496a774ae4f08ef099ea88ef5d",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 6 solutions",
+      "pdf": "tutorial-06-solutions.pdf",
+      "text": "tutorial-06-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 4,
+      "bytes": 351063,
+      "sha256": "0dfa923142890deb70db365c3d11d9673122fa7f775f033143915e84bcf47408",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 7 solutions",
+      "pdf": "tutorial-07-solutions.pdf",
+      "text": "tutorial-07-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 5,
+      "bytes": 354486,
+      "sha256": "a83bd95bf3e00c79886634bde3f41a8d6ef5fd85120814680e6c15e59d802261",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 8 solutions",
+      "pdf": "tutorial-08-solutions.pdf",
+      "text": "tutorial-08-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 5,
+      "bytes": 329555,
+      "sha256": "77f9efb905ab1e1fbd992341a11ed1e0ebcc7fcfe65c445e494ff825d72800a7",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 9 solutions",
+      "pdf": "tutorial-09-solutions.pdf",
+      "text": "tutorial-09-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 6,
+      "bytes": 451356,
+      "sha256": "ab2a1220fb7ec48aa475cfb1a8dd26c5041e721927298c66e0cf05f99577e493",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 10 solutions",
+      "pdf": "tutorial-10-solutions.pdf",
+      "text": "tutorial-10-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 7,
+      "bytes": 353133,
+      "sha256": "ec40a880e9d8f8f2e5e6c72d21e730281d38abebdd3ac3eaa77e915b1b17894a",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Tutorial 11 solutions",
+      "pdf": "tutorial-11-solutions.pdf",
+      "text": "tutorial-11-solutions.md",
+      "topic": "Complete supplied questions and official solutions",
+      "pages": 4,
+      "bytes": 330338,
+      "sha256": "67b631d321b885585364441e7ff7b4f5b4017ba688f0c92bda948e959c12ab0c",
+      "text_status": "unverified automatic PDF extraction"
+    },
+    {
+      "title": "Annotated revision lecture",
+      "pdf": "revision-lecture.pdf",
+      "text": "revision-lecture.md",
+      "topic": "Exam scope and appended handwritten examples",
+      "pages": 19,
+      "bytes": 9002014,
+      "sha256": "ee5cf17f6efb0127b50e0cec71d04f6bfdb44128e80a24ca0c9f4df9c9ad24f4",
+      "text_status": "unverified OCR"
+    }
+  ]
+}
