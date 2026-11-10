@@ -1,0 +1,6268 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/AceKernel/v-7e2c8d49a6f1",
+  "reference_check": "REF-7E2C-1110",
+  "page_numbering": "PDF pages, 1-based; printed slide is separately recorded only when found in source footer",
+  "authority": "Original PDFs and official corrections; compiled references are supplementary; page/problem extraction and OCR are unverified",
+  "topics": [
+    {
+      "id": "notation",
+      "title": "Notation and proof methods",
+      "aliases": [
+        "quantifiers",
+        "contradiction",
+        "contrapositive",
+        "positive orthants",
+        "vector inequalities"
+      ],
+      "file": "topic-notation.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-notation.md",
+      "key_results": [
+        {
+          "source": "notation",
+          "page": 3,
+          "title": "Positive orthants and set difference",
+          "file": "page-notation-03.md"
+        },
+        {
+          "source": "logic",
+          "page": 3,
+          "title": "Negating quantifiers",
+          "file": "page-logic-03.md"
+        },
+        {
+          "source": "lecture-06",
+          "page": 3,
+          "title": "Vector inequality convention",
+          "file": "page-lecture-06-03.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "logic",
+          "from_page": 1,
+          "to_page": 5
+        },
+        {
+          "source": "notation",
+          "from_page": 1,
+          "to_page": 4
+        },
+        {
+          "source": "lecture-06",
+          "from_page": 3,
+          "to_page": 3
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-02-01.md"
+      ]
+    },
+    {
+      "id": "sequences",
+      "title": "Norms and sequence limits",
+      "aliases": [
+        "epsilon-N",
+        "convergence",
+        "divergence",
+        "coordinatewise limits",
+        "squeeze"
+      ],
+      "file": "topic-sequences.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-sequences.md",
+      "key_results": [
+        {
+          "source": "lecture-01",
+          "page": 12,
+          "title": "Scalar convergence definition",
+          "file": "page-lecture-01-12.md"
+        },
+        {
+          "source": "lecture-01",
+          "page": 18,
+          "title": "Vector convergence and balls",
+          "file": "page-lecture-01-18.md"
+        },
+        {
+          "source": "lecture-01",
+          "page": 25,
+          "title": "Coordinatewise convergence",
+          "file": "page-lecture-01-25.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-01",
+          "from_page": 2,
+          "to_page": 5
+        },
+        {
+          "source": "lecture-01",
+          "from_page": 8,
+          "to_page": 25
+        }
+      ],
+      "worked_problems": []
+    },
+    {
+      "id": "topology",
+      "title": "Sets and compactness",
+      "aliases": [
+        "open balls",
+        "interior",
+        "exterior",
+        "boundary",
+        "closed",
+        "bounded"
+      ],
+      "file": "topic-topology.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-topology.md",
+      "key_results": [
+        {
+          "source": "lecture-01",
+          "page": 26,
+          "title": "Interior, exterior and boundary definitions",
+          "file": "page-lecture-01-26.md"
+        },
+        {
+          "source": "lecture-01",
+          "page": 27,
+          "title": "Open and closed sets",
+          "file": "page-lecture-01-27.md"
+        },
+        {
+          "source": "lecture-01",
+          "page": 30,
+          "title": "Boundedness and compactness",
+          "file": "page-lecture-01-30.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-01",
+          "from_page": 18,
+          "to_page": 20
+        },
+        {
+          "source": "lecture-01",
+          "from_page": 26,
+          "to_page": 30
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 15,
+          "to_page": 16
+        }
+      ],
+      "worked_problems": []
+    },
+    {
+      "id": "continuity",
+      "title": "Domains and continuity",
+      "aliases": [
+        "log",
+        "square root",
+        "denominator",
+        "projections",
+        "compositions",
+        "sequential continuity"
+      ],
+      "file": "topic-continuity.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-continuity.md",
+      "key_results": [
+        {
+          "source": "lecture-02",
+          "page": 3,
+          "title": "Domain examples",
+          "file": "page-lecture-02-03.md"
+        },
+        {
+          "source": "lecture-02",
+          "page": 11,
+          "title": "Sequential continuity definition",
+          "file": "page-lecture-02-11.md"
+        },
+        {
+          "source": "lecture-02",
+          "page": 16,
+          "title": "Continuity algebra",
+          "file": "page-lecture-02-16.md"
+        },
+        {
+          "source": "lecture-02",
+          "page": 18,
+          "title": "Continuity of composition",
+          "file": "page-lecture-02-18.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-01",
+          "from_page": 6,
+          "to_page": 7
+        },
+        {
+          "source": "lecture-02",
+          "from_page": 2,
+          "to_page": 20
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 15,
+          "to_page": 16
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-02-01.md",
+        "problem-tutorial-02-02.md",
+        "problem-tutorial-02-03.md",
+        "problem-tutorial-02-06.md",
+        "problem-tutorial-02-07.md",
+        "problem-tutorial-03-02.md",
+        "problem-tutorial-08-02.md"
+      ]
+    },
+    {
+      "id": "differentiation",
+      "title": "Differentiability and approximation",
+      "aliases": [
+        "partial derivatives",
+        "gradient",
+        "total differential",
+        "Taylor",
+        "marginal products"
+      ],
+      "file": "topic-differentiation.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-differentiation.md",
+      "key_results": [
+        {
+          "source": "lecture-03",
+          "page": 10,
+          "title": "Total differentiability definition",
+          "file": "page-lecture-03-10.md"
+        },
+        {
+          "source": "lecture-03",
+          "page": 14,
+          "title": "Partial derivative definition",
+          "file": "page-lecture-03-14.md"
+        },
+        {
+          "source": "lecture-03",
+          "page": 22,
+          "title": "Gradient and total derivative",
+          "file": "page-lecture-03-22.md"
+        },
+        {
+          "source": "lecture-03",
+          "page": 24,
+          "title": "First-order Taylor approximation",
+          "file": "page-lecture-03-24.md"
+        },
+        {
+          "source": "lecture-03",
+          "page": 31,
+          "title": "Continuous partials imply differentiability",
+          "file": "page-lecture-03-31.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-02",
+          "from_page": 21,
+          "to_page": 33
+        },
+        {
+          "source": "lecture-03",
+          "from_page": 2,
+          "to_page": 6
+        },
+        {
+          "source": "lecture-03",
+          "from_page": 9,
+          "to_page": 31
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 17,
+          "to_page": 17
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-02-05.md",
+        "problem-tutorial-03-01.md",
+        "problem-tutorial-03-02.md",
+        "problem-tutorial-03-03.md",
+        "problem-tutorial-03-04.md",
+        "problem-tutorial-03-05.md",
+        "problem-tutorial-04-01.md"
+      ]
+    },
+    {
+      "id": "chain-hessian",
+      "title": "Chain rule and Hessians",
+      "aliases": [
+        "composite derivatives",
+        "second partials",
+        "Young theorem"
+      ],
+      "file": "topic-chain-hessian.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-chain-hessian.md",
+      "key_results": [
+        {
+          "source": "lecture-04",
+          "page": 4,
+          "title": "Chain rule along a curve",
+          "file": "page-lecture-04-04.md"
+        },
+        {
+          "source": "lecture-04",
+          "page": 7,
+          "title": "Multivariable chain rule",
+          "file": "page-lecture-04-07.md"
+        },
+        {
+          "source": "lecture-04",
+          "page": 12,
+          "title": "Young theorem",
+          "file": "page-lecture-04-12.md"
+        },
+        {
+          "source": "lecture-04",
+          "page": 13,
+          "title": "Hessian matrix",
+          "file": "page-lecture-04-13.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-03",
+          "from_page": 7,
+          "to_page": 8
+        },
+        {
+          "source": "lecture-04",
+          "from_page": 2,
+          "to_page": 14
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 17,
+          "to_page": 17
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-03-05.md",
+        "problem-tutorial-04-02.md",
+        "problem-tutorial-04-05.md"
+      ]
+    },
+    {
+      "id": "implicit",
+      "title": "Implicit functions",
+      "aliases": [
+        "level curves",
+        "implicit differentiation",
+        "tangent lines",
+        "comparative statics"
+      ],
+      "file": "topic-implicit.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-implicit.md",
+      "key_results": [
+        {
+          "source": "lecture-04",
+          "page": 19,
+          "title": "Two-variable implicit function theorem",
+          "file": "page-lecture-04-19.md"
+        },
+        {
+          "source": "lecture-04",
+          "page": 24,
+          "title": "Several-input implicit theorem",
+          "file": "page-lecture-04-24.md"
+        },
+        {
+          "source": "lecture-04",
+          "page": 22,
+          "title": "Worked implicit slope",
+          "file": "page-lecture-04-22.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-04",
+          "from_page": 15,
+          "to_page": 25
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-04-03.md",
+        "problem-tutorial-04-04.md",
+        "problem-tutorial-04-06.md"
+      ]
+    },
+    {
+      "id": "linear-algebra",
+      "title": "Span, independence and linear systems",
+      "aliases": [
+        "rank",
+        "row rank",
+        "column rank",
+        "feasibility",
+        "unrestricted certificates"
+      ],
+      "file": "topic-linear-algebra.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-linear-algebra.md",
+      "key_results": [
+        {
+          "source": "lecture-05",
+          "page": 4,
+          "title": "Span",
+          "file": "page-lecture-05-04.md"
+        },
+        {
+          "source": "lecture-05",
+          "page": 6,
+          "title": "Linear independence",
+          "file": "page-lecture-05-06.md"
+        },
+        {
+          "source": "lecture-05",
+          "page": 15,
+          "title": "Row rank equals column rank",
+          "file": "page-lecture-05-15.md"
+        },
+        {
+          "source": "lecture-05",
+          "page": 21,
+          "title": "Unrestricted-system alternative",
+          "file": "page-lecture-05-21.md"
+        },
+        {
+          "source": "lecture-05",
+          "page": 25,
+          "title": "Explicitly excluded rank criterion",
+          "file": "page-lecture-05-25.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-05",
+          "from_page": 2,
+          "to_page": 26
+        },
+        {
+          "source": "lecture-06",
+          "from_page": 2,
+          "to_page": 3
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 19,
+          "to_page": 19
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-05-01.md",
+        "problem-tutorial-05-02.md",
+        "problem-tutorial-05-03.md",
+        "problem-tutorial-05-04.md"
+      ]
+    },
+    {
+      "id": "farkas",
+      "title": "Cones and Farkas alternatives",
+      "aliases": [
+        "nonnegative solutions",
+        "slack",
+        "surplus",
+        "free-variable conversion",
+        "infeasibility certificates"
+      ],
+      "file": "topic-farkas.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-farkas.md",
+      "key_results": [
+        {
+          "source": "lecture-06",
+          "page": 5,
+          "title": "Cone definition",
+          "file": "page-lecture-06-05.md"
+        },
+        {
+          "source": "lecture-06",
+          "page": 8,
+          "title": "Farkas lemma statement",
+          "file": "page-lecture-06-08.md"
+        },
+        {
+          "source": "lecture-06",
+          "page": 16,
+          "title": "Slack, surplus and free-variable conversions",
+          "file": "page-lecture-06-16.md"
+        },
+        {
+          "source": "lecture-06",
+          "page": 18,
+          "title": "Nonnegative inequality alternative",
+          "file": "page-lecture-06-18.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-06",
+          "from_page": 3,
+          "to_page": 18
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-06-01.md",
+        "problem-tutorial-06-02.md",
+        "problem-tutorial-06-03.md",
+        "problem-tutorial-06-04.md"
+      ]
+    },
+    {
+      "id": "convexity",
+      "title": "Convexity and concavity",
+      "aliases": [
+        "convex sets",
+        "strict convexity",
+        "weighted sums",
+        "composition",
+        "epigraph",
+        "hypograph"
+      ],
+      "file": "topic-convexity.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-convexity.md",
+      "key_results": [
+        {
+          "source": "lecture-07",
+          "page": 4,
+          "title": "Convex-set definition",
+          "file": "page-lecture-07-04.md"
+        },
+        {
+          "source": "lecture-07",
+          "page": 9,
+          "title": "Convex-function definition",
+          "file": "page-lecture-07-09.md"
+        },
+        {
+          "source": "lecture-07",
+          "page": 11,
+          "title": "Concavity and strictness",
+          "file": "page-lecture-07-11.md"
+        },
+        {
+          "source": "lecture-07",
+          "page": 17,
+          "title": "Weighted sums and negation",
+          "file": "page-lecture-07-17.md"
+        },
+        {
+          "source": "lecture-07",
+          "page": 18,
+          "title": "Composition",
+          "file": "page-lecture-07-18.md"
+        },
+        {
+          "source": "lecture-07",
+          "page": 26,
+          "title": "First-order characterisation",
+          "file": "page-lecture-07-26.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-07",
+          "from_page": 2,
+          "to_page": 30
+        },
+        {
+          "source": "lecture-08",
+          "from_page": 12,
+          "to_page": 15
+        },
+        {
+          "source": "lecture-11",
+          "from_page": 15,
+          "to_page": 22
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 13,
+          "to_page": 14
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-07-01.md",
+        "problem-tutorial-07-02.md",
+        "problem-tutorial-07-03.md",
+        "problem-tutorial-07-04.md",
+        "problem-tutorial-07-05.md",
+        "problem-tutorial-07-06.md",
+        "problem-tutorial-08-01.md",
+        "problem-tutorial-08-04.md",
+        "problem-tutorial-11-03.md"
+      ]
+    },
+    {
+      "id": "existence",
+      "title": "Existence of an optimum",
+      "aliases": [
+        "extreme value theorem",
+        "Weierstrass",
+        "nonempty compact feasible set"
+      ],
+      "file": "topic-existence.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-existence.md",
+      "key_results": [
+        {
+          "source": "lecture-08",
+          "page": 16,
+          "title": "Extreme value theorem",
+          "file": "page-lecture-08-16.md"
+        },
+        {
+          "source": "lecture-08",
+          "page": 17,
+          "title": "Why its hypotheses matter",
+          "file": "page-lecture-08-17.md"
+        },
+        {
+          "source": "lecture-01",
+          "page": 30,
+          "title": "Compactness",
+          "file": "page-lecture-01-30.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-01",
+          "from_page": 30,
+          "to_page": 30
+        },
+        {
+          "source": "lecture-08",
+          "from_page": 16,
+          "to_page": 17
+        },
+        {
+          "source": "lecture-08",
+          "from_page": 21,
+          "to_page": 25
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-08-03.md",
+        "problem-tutorial-10-02.md"
+      ]
+    },
+    {
+      "id": "unconstrained",
+      "title": "Unconstrained optimisation",
+      "aliases": [
+        "local/global extrema",
+        "critical points",
+        "saddle points",
+        "transformations",
+        "boundary comparison"
+      ],
+      "file": "topic-unconstrained.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-unconstrained.md",
+      "key_results": [
+        {
+          "source": "lecture-08",
+          "page": 4,
+          "title": "Local and global extrema",
+          "file": "page-lecture-08-04.md"
+        },
+        {
+          "source": "lecture-08",
+          "page": 6,
+          "title": "Interior first-order necessity",
+          "file": "page-lecture-08-06.md"
+        },
+        {
+          "source": "lecture-08",
+          "page": 12,
+          "title": "Concavity and global sufficiency",
+          "file": "page-lecture-08-12.md"
+        },
+        {
+          "source": "lecture-08",
+          "page": 19,
+          "title": "Increasing transformations",
+          "file": "page-lecture-08-19.md"
+        },
+        {
+          "source": "lecture-08",
+          "page": 23,
+          "title": "Interior and boundary candidate procedure",
+          "file": "page-lecture-08-23.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-08",
+          "from_page": 2,
+          "to_page": 25
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 18,
+          "to_page": 18
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-08-01.md",
+        "problem-tutorial-08-02.md",
+        "problem-tutorial-08-04.md",
+        "problem-tutorial-09-01.md",
+        "problem-tutorial-11-02.md"
+      ]
+    },
+    {
+      "id": "linear-programming",
+      "title": "Linear programming",
+      "aliases": [
+        "standard form",
+        "feasible polygon",
+        "extreme points",
+        "binding and slack"
+      ],
+      "file": "topic-linear-programming.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-linear-programming.md",
+      "key_results": [
+        {
+          "source": "lecture-09",
+          "page": 7,
+          "title": "Standard form and binding/slack",
+          "file": "page-lecture-09-07.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 9,
+          "title": "Fundamental theorem",
+          "file": "page-lecture-09-09.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 4,
+          "title": "Example feasible polygon",
+          "file": "page-lecture-09-04.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-09",
+          "from_page": 2,
+          "to_page": 9
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-09-02.md",
+        "problem-tutorial-09-03.md"
+      ]
+    },
+    {
+      "id": "duality",
+      "title": "Duality and resource values",
+      "aliases": [
+        "weak/strong duality",
+        "complementary slackness",
+        "shadow prices",
+        "free multipliers"
+      ],
+      "file": "topic-duality.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-duality.md",
+      "key_results": [
+        {
+          "source": "lecture-09",
+          "page": 12,
+          "title": "General dual and weak duality",
+          "file": "page-lecture-09-12.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 13,
+          "title": "Strong duality",
+          "file": "page-lecture-09-13.md"
+        },
+        {
+          "source": "lecture-10",
+          "page": 2,
+          "title": "Complementary slackness",
+          "file": "page-lecture-10-02.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 23,
+          "title": "Shadow prices",
+          "file": "page-lecture-09-23.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 24,
+          "title": "Primal equalities",
+          "file": "page-lecture-09-24.md"
+        },
+        {
+          "source": "lecture-09",
+          "page": 26,
+          "title": "Free primal variables",
+          "file": "page-lecture-09-26.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-09",
+          "from_page": 10,
+          "to_page": 26
+        },
+        {
+          "source": "lecture-10",
+          "from_page": 2,
+          "to_page": 4
+        },
+        {
+          "source": "lecture-11",
+          "from_page": 23,
+          "to_page": 25
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-09-02.md",
+        "problem-tutorial-09-03.md",
+        "problem-tutorial-09-04.md",
+        "problem-tutorial-09-05.md"
+      ]
+    },
+    {
+      "id": "lagrange",
+      "title": "Lagrange multipliers",
+      "aliases": [
+        "stationarity",
+        "active constraints",
+        "LICQ",
+        "equality constraints",
+        "necessity and sufficiency"
+      ],
+      "file": "topic-lagrange.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-lagrange.md",
+      "key_results": [
+        {
+          "source": "lecture-10",
+          "page": 13,
+          "title": "Necessity with affine constraints",
+          "file": "page-lecture-10-13.md"
+        },
+        {
+          "source": "lecture-10",
+          "page": 15,
+          "title": "Active-gradient qualification",
+          "file": "page-lecture-10-15.md"
+        },
+        {
+          "source": "lecture-10",
+          "page": 25,
+          "title": "Equality theorem",
+          "file": "page-lecture-10-25.md"
+        },
+        {
+          "source": "lecture-10",
+          "page": 28,
+          "title": "Mixed constraints",
+          "file": "page-lecture-10-28.md"
+        },
+        {
+          "source": "lecture-11",
+          "page": 16,
+          "title": "Global sufficiency",
+          "file": "page-lecture-11-16.md"
+        },
+        {
+          "source": "lecture-11",
+          "page": 20,
+          "title": "Affine equality sufficiency",
+          "file": "page-lecture-11-20.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-10",
+          "from_page": 5,
+          "to_page": 28
+        },
+        {
+          "source": "lecture-11",
+          "from_page": 15,
+          "to_page": 22
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-10-01.md",
+        "problem-tutorial-10-02.md",
+        "problem-tutorial-10-03.md",
+        "problem-tutorial-10-04.md",
+        "problem-tutorial-11-03.md"
+      ]
+    },
+    {
+      "id": "kkt",
+      "title": "Nonnegative-variable KKT",
+      "aliases": [
+        "reduced Lagrangian",
+        "complementary slackness",
+        "corners",
+        "global sufficiency"
+      ],
+      "file": "topic-kkt.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-kkt.md",
+      "key_results": [
+        {
+          "source": "lecture-11",
+          "page": 5,
+          "title": "Reduced KKT conditions",
+          "file": "page-lecture-11-05.md"
+        },
+        {
+          "source": "lecture-11",
+          "page": 7,
+          "title": "Necessity and active nonnegativity",
+          "file": "page-lecture-11-07.md"
+        },
+        {
+          "source": "lecture-11",
+          "page": 9,
+          "title": "Candidate procedure",
+          "file": "page-lecture-11-09.md"
+        },
+        {
+          "source": "lecture-11",
+          "page": 18,
+          "title": "Sufficiency: use the correctly derived complementary product",
+          "file": "page-lecture-11-18.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-11",
+          "from_page": 2,
+          "to_page": 25
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-11-01.md",
+        "problem-tutorial-11-02.md",
+        "problem-tutorial-11-03.md"
+      ]
+    },
+    {
+      "id": "graphs",
+      "title": "Graphs and diagrams",
+      "aliases": [
+        "TikZ",
+        "level curves",
+        "included/excluded boundary",
+        "feasible set",
+        "cone"
+      ],
+      "file": "topic-graphs.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-graphs.md",
+      "key_results": [
+        {
+          "source": "tutorial-08-solutions",
+          "page": 3,
+          "title": "Excluded parabola and included disk",
+          "file": "page-tutorial-08-solutions-03.md"
+        },
+        {
+          "source": "tutorial-08-solutions",
+          "page": 4,
+          "title": "Closed triangle",
+          "file": "page-tutorial-08-solutions-04.md"
+        },
+        {
+          "source": "tutorial-09-solutions",
+          "page": 3,
+          "title": "Feasible polygon and labelled vertices",
+          "file": "page-tutorial-09-solutions-03.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "lecture-01",
+          "from_page": 19,
+          "to_page": 20
+        },
+        {
+          "source": "lecture-02",
+          "from_page": 4,
+          "to_page": 9
+        },
+        {
+          "source": "lecture-04",
+          "from_page": 15,
+          "to_page": 22
+        },
+        {
+          "source": "lecture-06",
+          "from_page": 5,
+          "to_page": 14
+        },
+        {
+          "source": "lecture-09",
+          "from_page": 3,
+          "to_page": 5
+        },
+        {
+          "source": "revision-lecture",
+          "from_page": 15,
+          "to_page": 16
+        }
+      ],
+      "worked_problems": [
+        "problem-tutorial-02-02.md",
+        "problem-tutorial-02-04.md",
+        "problem-tutorial-03-02.md",
+        "problem-tutorial-04-04.md",
+        "problem-tutorial-06-01.md",
+        "problem-tutorial-08-03.md",
+        "problem-tutorial-09-01.md",
+        "problem-tutorial-09-02.md"
+      ]
+    },
+    {
+      "id": "exam",
+      "title": "Revision scope and answer presentation",
+      "aliases": [
+        "final format",
+        "coverage",
+        "notation",
+        "precision",
+        "handwritten examples"
+      ],
+      "file": "topic-exam.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/topic-exam.md",
+      "key_results": [
+        {
+          "source": "revision-lecture",
+          "page": 4,
+          "title": "Timing and answer-booklet instructions",
+          "file": "page-revision-lecture-04.md"
+        },
+        {
+          "source": "revision-lecture",
+          "page": 5,
+          "title": "Coverage and permitted notes",
+          "file": "page-revision-lecture-05.md"
+        },
+        {
+          "source": "revision-lecture",
+          "page": 6,
+          "title": "Exam format",
+          "file": "page-revision-lecture-06.md"
+        },
+        {
+          "source": "revision-lecture",
+          "page": 8,
+          "title": "Lecture notation and tutorial methods",
+          "file": "page-revision-lecture-08.md"
+        },
+        {
+          "source": "revision-lecture",
+          "page": 11,
+          "title": "Scope clarifications",
+          "file": "page-revision-lecture-11.md"
+        }
+      ],
+      "source_ranges": [
+        {
+          "source": "revision-lecture",
+          "from_page": 1,
+          "to_page": 19
+        }
+      ],
+      "worked_problems": []
+    }
+  ],
+  "sources": [
+    {
+      "source": "logic",
+      "title": "Logic",
+      "pdf": "logic.pdf",
+      "map": "map-logic.md",
+      "pages": 5
+    },
+    {
+      "source": "notation",
+      "title": "Notation",
+      "pdf": "notation.pdf",
+      "map": "map-notation.md",
+      "pages": 4
+    },
+    {
+      "source": "lecture-01",
+      "title": "Lecture 1",
+      "pdf": "lecture-01.pdf",
+      "map": "map-lecture-01.md",
+      "pages": 30
+    },
+    {
+      "source": "lecture-02",
+      "title": "Lecture 2",
+      "pdf": "lecture-02.pdf",
+      "map": "map-lecture-02.md",
+      "pages": 33
+    },
+    {
+      "source": "lecture-03",
+      "title": "Lecture 3",
+      "pdf": "lecture-03.pdf",
+      "map": "map-lecture-03.md",
+      "pages": 31
+    },
+    {
+      "source": "lecture-04",
+      "title": "Lecture 4",
+      "pdf": "lecture-04.pdf",
+      "map": "map-lecture-04.md",
+      "pages": 25
+    },
+    {
+      "source": "lecture-05",
+      "title": "Lecture 5",
+      "pdf": "lecture-05.pdf",
+      "map": "map-lecture-05.md",
+      "pages": 26
+    },
+    {
+      "source": "lecture-06",
+      "title": "Lecture 6",
+      "pdf": "lecture-06.pdf",
+      "map": "map-lecture-06.md",
+      "pages": 26
+    },
+    {
+      "source": "lecture-07",
+      "title": "Lecture 7",
+      "pdf": "lecture-07.pdf",
+      "map": "map-lecture-07.md",
+      "pages": 30
+    },
+    {
+      "source": "lecture-08",
+      "title": "Lecture 8",
+      "pdf": "lecture-08.pdf",
+      "map": "map-lecture-08.md",
+      "pages": 25
+    },
+    {
+      "source": "lecture-09",
+      "title": "Lecture 9",
+      "pdf": "lecture-09.pdf",
+      "map": "map-lecture-09.md",
+      "pages": 26
+    },
+    {
+      "source": "lecture-10",
+      "title": "Lecture 10",
+      "pdf": "lecture-10.pdf",
+      "map": "map-lecture-10.md",
+      "pages": 28
+    },
+    {
+      "source": "lecture-11",
+      "title": "Lecture 11",
+      "pdf": "lecture-11.pdf",
+      "map": "map-lecture-11.md",
+      "pages": 25
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "title": "Tutorial 2 solutions",
+      "pdf": "tutorial-02-solutions.pdf",
+      "map": "map-tutorial-02-solutions.md",
+      "pages": 6
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "title": "Tutorial 3 solutions",
+      "pdf": "tutorial-03-solutions.pdf",
+      "map": "map-tutorial-03-solutions.md",
+      "pages": 5
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "title": "Tutorial 4 solutions",
+      "pdf": "tutorial-04-solutions.pdf",
+      "map": "map-tutorial-04-solutions.md",
+      "pages": 5
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "title": "Tutorial 5 solutions",
+      "pdf": "tutorial-05-solutions.pdf",
+      "map": "map-tutorial-05-solutions.md",
+      "pages": 5
+    },
+    {
+      "source": "tutorial-06-solutions",
+      "title": "Tutorial 6 solutions",
+      "pdf": "tutorial-06-solutions.pdf",
+      "map": "map-tutorial-06-solutions.md",
+      "pages": 4
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "title": "Tutorial 7 solutions",
+      "pdf": "tutorial-07-solutions.pdf",
+      "map": "map-tutorial-07-solutions.md",
+      "pages": 5
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "title": "Tutorial 8 solutions",
+      "pdf": "tutorial-08-solutions.pdf",
+      "map": "map-tutorial-08-solutions.md",
+      "pages": 5
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "title": "Tutorial 9 solutions",
+      "pdf": "tutorial-09-solutions.pdf",
+      "map": "map-tutorial-09-solutions.md",
+      "pages": 6
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "title": "Tutorial 10 solutions",
+      "pdf": "tutorial-10-solutions.pdf",
+      "map": "map-tutorial-10-solutions.md",
+      "pages": 7
+    },
+    {
+      "source": "tutorial-11-solutions",
+      "title": "Tutorial 11 solutions",
+      "pdf": "tutorial-11-solutions.pdf",
+      "map": "map-tutorial-11-solutions.md",
+      "pages": 4
+    },
+    {
+      "source": "revision-lecture",
+      "title": "Annotated revision lecture",
+      "pdf": "revision-lecture.pdf",
+      "map": "map-revision-lecture.md",
+      "pages": 19
+    }
+  ],
+  "pages": [
+    {
+      "source": "logic",
+      "page": 1,
+      "printed_slide": null,
+      "title": "Logic overview and truth tables",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-logic-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-logic-01.md"
+    },
+    {
+      "source": "logic",
+      "page": 2,
+      "printed_slide": null,
+      "title": "Implication and quantifiers",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-logic-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-logic-02.md"
+    },
+    {
+      "source": "logic",
+      "page": 3,
+      "printed_slide": null,
+      "title": "Negating quantified statements",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-logic-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-logic-03.md"
+    },
+    {
+      "source": "logic",
+      "page": 4,
+      "printed_slide": null,
+      "title": "Contradiction and contrapositive",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-logic-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-logic-04.md"
+    },
+    {
+      "source": "logic",
+      "page": 5,
+      "printed_slide": null,
+      "title": "Number sets",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-logic-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-logic-05.md"
+    },
+    {
+      "source": "notation",
+      "page": 1,
+      "printed_slide": null,
+      "title": "Basic symbols and set notation",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-notation-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-notation-01.md"
+    },
+    {
+      "source": "notation",
+      "page": 2,
+      "printed_slide": null,
+      "title": "Cartesian products and function graphs",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-notation-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-notation-02.md"
+    },
+    {
+      "source": "notation",
+      "page": 3,
+      "printed_slide": null,
+      "title": "Powers of sets, positive orthants and absolute value",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-notation-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-notation-03.md"
+    },
+    {
+      "source": "notation",
+      "page": 4,
+      "printed_slide": null,
+      "title": "Absolute-value examples",
+      "topics": [
+        "notation"
+      ],
+      "file": "page-notation-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-notation-04.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Basic real analysis I",
+      "topics": [],
+      "file": "page-lecture-01-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-01.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "The real line and absolute-value distance",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-02.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Euclidean coordinate space",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-03.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Euclidean distance in the plane",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-04.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Norm and distance definitions",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-05.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Functions, domain, codomain and image",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-01-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-06.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Function graph example",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-01-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-07.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Sequences",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-08.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Sequence example",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-09.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Convergence and present value",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-10.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Present-value sequence example",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-11.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Scalar convergence: epsilon definition",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-12.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Reciprocal-sequence example",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-13.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Choosing a convergence threshold",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-14.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Convergence tails",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-15.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Sequences of vectors",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-16.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Vector-sequence illustration",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-17.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Vector convergence and open balls",
+      "topics": [
+        "sequences",
+        "topology"
+      ],
+      "file": "page-lecture-01-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-18.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Open balls in the real line",
+      "topics": [
+        "sequences",
+        "topology",
+        "graphs"
+      ],
+      "file": "page-lecture-01-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-19.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Open balls in the plane",
+      "topics": [
+        "sequences",
+        "topology",
+        "graphs"
+      ],
+      "file": "page-lecture-01-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-20.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Uniqueness of a sequence limit",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-21.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Algebra of vector limits",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-22.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Proof of the sum rule",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-23.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Order and scalar limit results",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-24.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Coordinatewise convergence",
+      "topics": [
+        "sequences"
+      ],
+      "file": "page-lecture-01-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-25.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Interior, exterior and boundary",
+      "topics": [
+        "topology"
+      ],
+      "file": "page-lecture-01-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-26.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 27,
+      "printed_slide": 27,
+      "title": "Open and closed sets",
+      "topics": [
+        "topology"
+      ],
+      "file": "page-lecture-01-27.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-27.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 28,
+      "printed_slide": 28,
+      "title": "Set-classification example",
+      "topics": [
+        "topology"
+      ],
+      "file": "page-lecture-01-28.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-28.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 29,
+      "printed_slide": 29,
+      "title": "Neither open nor closed",
+      "topics": [
+        "topology"
+      ],
+      "file": "page-lecture-01-29.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-29.md"
+    },
+    {
+      "source": "lecture-01",
+      "page": 30,
+      "printed_slide": 30,
+      "title": "Boundedness and compactness",
+      "topics": [
+        "topology",
+        "existence"
+      ],
+      "file": "page-lecture-01-30.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-01-30.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Basic real analysis II",
+      "topics": [],
+      "file": "page-lecture-02-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-01.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Functions of several variables",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-02.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Domains",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-03.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Graphs and level curves",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-04.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Paraboloid graph",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-05.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Level-curve example",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-06.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Contour plots",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-07.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Graphs and contours",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-08.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Isoquants and indifference curves",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-lecture-02-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-09.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Continuity intuition",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-10.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Sequential definition of continuity",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-11.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Continuity and existence motivation",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-12.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Continuous elementary functions and projections",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-13.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "A discontinuous rational example",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-14.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Algebra of functions and domains",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-15.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Algebra of continuous functions",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-16.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Componentwise continuity",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-17.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Continuity of composition",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-18.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Composition example",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-19.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Continuity exercises",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-lecture-02-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-20.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Linear functions and the dot product",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-21.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Affine functions",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-22.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Differentials of affine functions",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-23.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Coordinate-change decomposition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-24.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "General coordinate decomposition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-25.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Total differential of an affine function",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-26.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 27,
+      "printed_slide": 27,
+      "title": "One-variable differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-27.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-27.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 28,
+      "printed_slide": 28,
+      "title": "Tangent approximation",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-28.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-28.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 29,
+      "printed_slide": 29,
+      "title": "Definition of differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-29.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-29.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 30,
+      "printed_slide": 30,
+      "title": "Equivalent differentiability limit",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-30.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-30.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 31,
+      "printed_slide": 31,
+      "title": "Differentiating a square from the definition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-31.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-31.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 32,
+      "printed_slide": 32,
+      "title": "Absolute value: failure of differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-32.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-32.md"
+    },
+    {
+      "source": "lecture-02",
+      "page": 33,
+      "printed_slide": 33,
+      "title": "Differentiability implies continuity",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-02-33.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-02-33.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Differentiation I",
+      "topics": [],
+      "file": "page-lecture-03-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-01.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "One-variable differentiability review",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-02.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Geometric meaning of the derivative",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-03.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Elementary derivative rules",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-04.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Sum, product and quotient rules",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-05.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Derivative exercises",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-06.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "One-variable chain rule",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-03-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-07.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Chain-rule exercises",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-03-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-08.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Multivariable differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-09.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Total differentiability: definition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-10.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Affine approximation intuition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-11.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Tangent-plane example",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-12.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Partial versus total changes",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-13.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Partial derivative: definition",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-14.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Partial-derivative notation",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-15.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Partial-derivative example",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-16.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Partial-derivative exercises",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-17.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Marginal products",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-18.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Geometry of the first partial derivative",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-19.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Geometry of the second partial derivative",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-20.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Partial and total derivatives",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-21.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Gradient and total derivative",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-22.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Tangent hyperplanes",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-23.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "First-order Taylor approximation",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-24.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Partial derivatives alone are insufficient",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-25.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Counterexample setup",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-26.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 27,
+      "printed_slide": 27,
+      "title": "Testing total differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-27.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-27.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 28,
+      "printed_slide": 28,
+      "title": "A path-based counterexample",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-28.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-28.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 29,
+      "printed_slide": 29,
+      "title": "A second path comparison",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-29.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-29.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 30,
+      "printed_slide": 30,
+      "title": "Existing partial derivatives without differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-30.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-30.md"
+    },
+    {
+      "source": "lecture-03",
+      "page": 31,
+      "printed_slide": 31,
+      "title": "Continuous partials imply differentiability",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-lecture-03-31.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-03-31.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Differentiation II",
+      "topics": [],
+      "file": "page-lecture-04-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-01.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "One-variable chain rule review",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-02.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Production changes over time",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-03.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Chain rule along a curve",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-04.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Production-chain-rule example",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-05.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Chain-rule production exercise",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-06.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Multivariable inner functions",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-07.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Second derivatives",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-08.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Second partial derivatives",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-09.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Notation for four second partials",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-10.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Second partials of an exponential",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-11.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Young theorem and mixed partials",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-12.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "The Hessian matrix",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-13.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Hessian example",
+      "topics": [
+        "chain-hessian"
+      ],
+      "file": "page-lecture-04-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-14.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Implicit functions and level curves",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-15.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Implicit equation not explicitly isolatable",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-16.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Comparative statics",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-17.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Implicit slope intuition",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-18.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Two-variable implicit function theorem",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-19.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Why the denominator must be nonzero",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-20.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Implicit differentiation on a level curve",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-21.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Implicit-derivative example",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "file": "page-lecture-04-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-22.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Logarithmic implicit exercise",
+      "topics": [
+        "implicit"
+      ],
+      "file": "page-lecture-04-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-23.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Implicit function theorem with several inputs",
+      "topics": [
+        "implicit"
+      ],
+      "file": "page-lecture-04-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-24.md"
+    },
+    {
+      "source": "lecture-04",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Three-variable implicit example",
+      "topics": [
+        "implicit"
+      ],
+      "file": "page-lecture-04-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-04-25.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Linear algebra I",
+      "topics": [],
+      "file": "page-lecture-05-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-01.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Vectors",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-02.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Scalar multiplication and dot products",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-03.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Linear combinations and span",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-04.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Span example",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-05.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Linear independence and dependence",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-06.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Independence of a single vector",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-07.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "A dependent pair",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-08.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Geometry of linear independence",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-09.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Rank of a family of vectors",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-10.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Row and column vectors",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-11.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Matrices",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-12.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Matrix dimensions",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-13.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Column rank and row rank",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-14.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Equality of row and column rank",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-15.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Matrix-rank examples",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-16.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Augmented matrices",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-17.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Systems of linear equations",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-18.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Feasibility and the column span",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-19.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Feasibility example",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-20.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Alternative for unrestricted linear equations",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-21.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Geometric infeasibility certificate",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-22.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Row-combination interpretation",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-23.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Certificate example",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-24.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Rank criterion: expressly excluded on this slide",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-25.md"
+    },
+    {
+      "source": "lecture-05",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Rank-criterion example",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-05-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-05-26.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Linear algebra II",
+      "topics": [],
+      "file": "page-lecture-06-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-01.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Linear-system review",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-lecture-06-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-02.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Course convention for vector inequalities",
+      "topics": [
+        "notation",
+        "linear-algebra",
+        "farkas"
+      ],
+      "file": "page-lecture-06-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-03.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Nonnegative solutions",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-lecture-06-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-04.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Cones and cone-generated systems",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-05.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Cone example",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-06.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Span versus cone",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-07.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Farkas lemma",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-08.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Proof of Farkas lemma",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-09.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Geometry of Farkas lemma",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-10.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Infeasibility-certificate example",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-11.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Constructing a certificate",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-12.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Farkas exercise",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-13.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Geometric cone exercise",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-lecture-06-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-14.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Linear inequalities",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-lecture-06-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-15.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Slack, surplus and free-variable conversions",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-lecture-06-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-16.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Deriving an inequality alternative",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-lecture-06-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-17.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Farkas alternative for nonnegative inequalities",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-lecture-06-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-18.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Arbitrage illustration",
+      "topics": [],
+      "file": "page-lecture-06-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-19.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Payoff-matrix model",
+      "topics": [],
+      "file": "page-lecture-06-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-20.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "No-arbitrage condition",
+      "topics": [],
+      "file": "page-lecture-06-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-21.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Arbitrage theorem illustration",
+      "topics": [],
+      "file": "page-lecture-06-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-22.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Black-Scholes illustration",
+      "topics": [],
+      "file": "page-lecture-06-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-23.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Binomial-model setup",
+      "topics": [],
+      "file": "page-lecture-06-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-24.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Payoff matrix",
+      "topics": [],
+      "file": "page-lecture-06-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-25.md"
+    },
+    {
+      "source": "lecture-06",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "State prices and binomial pricing",
+      "topics": [],
+      "file": "page-lecture-06-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-06-26.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Convexity and concavity",
+      "topics": [],
+      "file": "page-lecture-07-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-01.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Convex combinations and line segments",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-02.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Line-segment examples",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-03.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Convex sets: definition",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-04.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Convex intervals and balls",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-05.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Convex-set example",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-06.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Intersections of convex sets",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-07.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Unions need not be convex",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-08.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Convex functions: definition",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-09.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Strict convexity: graph",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-10.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Concavity and strict concavity",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-11.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Strict concavity: graph",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-12.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Affine functions are convex and concave",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-13.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Increasing and decreasing functions",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-14.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Derivatives and monotonicity",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-15.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "One-variable second-derivative tests",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-16.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Weighted sums and negation",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-17.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Composition theorems",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-18.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Closure-property examples",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-19.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Epigraphs and hypographs",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-20.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Epigraph and hypograph diagrams",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-21.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Convexity equivalences for epigraphs and hypographs",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-22.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Proof using a concave function",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-23.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Converse proof",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-24.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Convexity of a constraint set",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-25.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "First-order characterisation of convexity and concavity",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-26.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 27,
+      "printed_slide": 27,
+      "title": "One-variable first-order characterisation",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-27.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-27.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 28,
+      "printed_slide": 28,
+      "title": "Concave functions and tangent lines",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-28.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-28.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 29,
+      "printed_slide": 29,
+      "title": "Convex functions and tangent lines",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-29.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-29.md"
+    },
+    {
+      "source": "lecture-07",
+      "page": 30,
+      "printed_slide": 30,
+      "title": "Paraboloid tangent-plane example",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-lecture-07-30.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-07-30.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Optimisation I",
+      "topics": [],
+      "file": "page-lecture-08-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-01.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Optimisation problems",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-02.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Nonexistence and nonuniqueness",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-03.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Local and global extrema",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-04.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Classifying extrema graphically",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-05.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Interior first-order necessary conditions",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-06.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Why an interior optimum has zero gradient",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-07.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Critical-point example",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-08.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Critical points are not sufficient",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-09.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Saddle points",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-10.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Scalar second-derivative sufficient tests",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-11.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Concavity and convexity give global sufficiency",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-12.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Paraboloid example",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-13.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Quadratic exercise",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-14.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Logarithmic example",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-15.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Extreme value theorem",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-16.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Why the hypotheses matter",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-17.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Minimisation by negation",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-18.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Strictly increasing transformations",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-19.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Transformation example",
+      "topics": [
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-20.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Extreme-value exercise",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-21.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Caveats about existence",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-22.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Interior and boundary candidate procedure",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-23.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Distance-optimisation example",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-24.md"
+    },
+    {
+      "source": "lecture-08",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Constraint-set sketch",
+      "topics": [
+        "existence",
+        "unconstrained"
+      ],
+      "file": "page-lecture-08-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-08-25.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Optimisation II",
+      "topics": [],
+      "file": "page-lecture-09-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-01.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Linear programming",
+      "topics": [
+        "linear-programming"
+      ],
+      "file": "page-lecture-09-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-02.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Bakery resource example",
+      "topics": [
+        "linear-programming",
+        "graphs"
+      ],
+      "file": "page-lecture-09-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-03.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Feasible polygon",
+      "topics": [
+        "linear-programming",
+        "graphs"
+      ],
+      "file": "page-lecture-09-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-04.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Extreme points",
+      "topics": [
+        "linear-programming",
+        "graphs"
+      ],
+      "file": "page-lecture-09-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-05.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Objective and boundary analysis",
+      "topics": [
+        "linear-programming"
+      ],
+      "file": "page-lecture-09-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-06.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Maximisation standard form, binding and slack",
+      "topics": [
+        "linear-programming"
+      ],
+      "file": "page-lecture-09-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-07.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Matrix standard form",
+      "topics": [
+        "linear-programming"
+      ],
+      "file": "page-lecture-09-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-08.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Fundamental theorem of linear programming",
+      "topics": [
+        "linear-programming"
+      ],
+      "file": "page-lecture-09-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-09.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Bounding a primal objective",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-10.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Constructing a dual program",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-11.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "General dual and weak duality",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-12.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Strong duality",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-13.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Geometry of strong duality",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-14.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Farkas proof of strong duality",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-15.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Completing the duality proof",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-16.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Interpreting dual variables",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-17.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Resources and fixed-capacity constraints",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-18.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Imputed resource values",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-19.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "The resource-purchaser dual",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-20.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Equal optimal values",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-21.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Marginal resource values",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-22.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Local shadow-price interpretation",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-23.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Primal equalities and free dual multipliers",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-24.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Equality-constraint dual example",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-25.md"
+    },
+    {
+      "source": "lecture-09",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Free primal variables and dual equalities",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-09-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-09-26.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Optimisation III",
+      "topics": [],
+      "file": "page-lecture-10-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-01.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Complementary slackness",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-10-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-02.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Expanded complementary-slackness conditions",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-10-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-03.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Binding and slack pairs",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-lecture-10-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-04.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Nonlinear programming",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-05.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Standardising inequality signs",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-06.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "Feasible-direction linearisation",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-07.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "The direction linear program",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-08.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "Dual of the direction program",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-09.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Multipliers from linear-programming duality",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-10.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Economic interpretation of multipliers",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-11.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Multiplier example",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-12.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Necessary conditions with affine constraints",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-13.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Failure without a qualification",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-14.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Linear-independence constraint qualification",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-15.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Active gradients and qualification failure",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-16.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Worked inequality problem",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-17.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Binding and slack case procedure",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-18.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Geometry of multipliers",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-19.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Existence and complete candidate procedure",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-20.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Quadratic-constraint exercise",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-21.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Lagrange conditions and cases",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-22.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Equalities as opposite inequalities",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-23.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Unrestricted equality multipliers",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-24.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Equality-constraint theorem",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-25.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 26,
+      "printed_slide": 26,
+      "title": "Lagrangian stationarity",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-26.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-26.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 27,
+      "printed_slide": 27,
+      "title": "Equality-constraint example",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-27.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-27.md"
+    },
+    {
+      "source": "lecture-10",
+      "page": 28,
+      "printed_slide": 28,
+      "title": "Mixed equality and inequality theorem",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-lecture-10-28.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-10-28.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 1,
+      "printed_slide": 1,
+      "title": "Optimisation IV",
+      "topics": [],
+      "file": "page-lecture-11-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-01.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 2,
+      "printed_slide": 2,
+      "title": "Nonnegative decision variables",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-02.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 3,
+      "printed_slide": 3,
+      "title": "Explicit multipliers for nonnegativity",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-03.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 4,
+      "printed_slide": 4,
+      "title": "Reducing the stationarity conditions",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-04.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 5,
+      "printed_slide": 5,
+      "title": "Reduced KKT conditions",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-05.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 6,
+      "printed_slide": 6,
+      "title": "Reduced Lagrangian",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-06.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 7,
+      "printed_slide": 7,
+      "title": "KKT necessity and constraint qualification",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-07.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 8,
+      "printed_slide": 8,
+      "title": "Consumer example",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-08.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 9,
+      "printed_slide": 9,
+      "title": "KKT candidate procedure",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-09.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 10,
+      "printed_slide": 10,
+      "title": "Logarithmic example",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-10.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 11,
+      "printed_slide": 11,
+      "title": "Completing the logarithmic example",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-11.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 12,
+      "printed_slide": 12,
+      "title": "Disk-constraint exercise",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-12.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 13,
+      "printed_slide": 13,
+      "title": "Active gradients and qualification",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-13.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 14,
+      "printed_slide": 14,
+      "title": "Disk KKT cases",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-lecture-11-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-14.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 15,
+      "printed_slide": 15,
+      "title": "Global sufficiency",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-15.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 16,
+      "printed_slide": 16,
+      "title": "Lagrange global-sufficiency theorem",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-16.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 17,
+      "printed_slide": 17,
+      "title": "Proof by convexity and concavity",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-17.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 18,
+      "printed_slide": 18,
+      "title": "Reduced KKT global sufficiency",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-18.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 19,
+      "printed_slide": 19,
+      "title": "Disk example: global optimum",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-19.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 20,
+      "printed_slide": 20,
+      "title": "Affine equalities for global sufficiency",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-20.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-20.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 21,
+      "printed_slide": 21,
+      "title": "Equality example",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-21.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-21.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 22,
+      "printed_slide": 22,
+      "title": "Concave objective and affine constraints",
+      "topics": [
+        "convexity",
+        "lagrange",
+        "kkt"
+      ],
+      "file": "page-lecture-11-22.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-22.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 23,
+      "printed_slide": 23,
+      "title": "Linear programs as KKT systems",
+      "topics": [
+        "duality",
+        "kkt"
+      ],
+      "file": "page-lecture-11-23.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-23.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 24,
+      "printed_slide": 24,
+      "title": "Matching LP and KKT conditions",
+      "topics": [
+        "duality",
+        "kkt"
+      ],
+      "file": "page-lecture-11-24.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-24.md"
+    },
+    {
+      "source": "lecture-11",
+      "page": 25,
+      "printed_slide": 25,
+      "title": "Primal, dual and complementary slackness",
+      "topics": [
+        "duality",
+        "kkt"
+      ],
+      "file": "page-lecture-11-25.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-lecture-11-25.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Function statements and counterexamples; P2: Domains and level curves",
+      "topics": [
+        "continuity",
+        "graphs",
+        "notation"
+      ],
+      "file": "page-tutorial-02-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-01.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P2: Domains and level curves; P3: Continuity through projections and composition",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-tutorial-02-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-02.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P3: Continuity through projections and composition; P4: Production isoquants",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "file": "page-tutorial-02-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-03.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P5: Linear and affine functions; P6: Failure of continuous extension",
+      "topics": [
+        "continuity",
+        "differentiation"
+      ],
+      "file": "page-tutorial-02-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-04.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P6: Failure of continuous extension; P7: Continuous extension across a diagonal",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-tutorial-02-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-05.md"
+    },
+    {
+      "source": "tutorial-02-solutions",
+      "page": 6,
+      "printed_slide": null,
+      "title": "P7: Continuous extension across a diagonal",
+      "topics": [
+        "continuity"
+      ],
+      "file": "page-tutorial-02-solutions-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-02-solutions-06.md"
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Partial derivatives and evaluation; P2: Domain, gradient, level curves and continuous differentiability",
+      "topics": [
+        "continuity",
+        "differentiation",
+        "graphs"
+      ],
+      "file": "page-tutorial-03-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-03-solutions-01.md"
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P2: Domain, gradient, level curves and continuous differentiability",
+      "topics": [
+        "continuity",
+        "differentiation",
+        "graphs"
+      ],
+      "file": "page-tutorial-03-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-03-solutions-02.md"
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P3: A partial derivative from the definition; P4: Production differential versus actual change",
+      "topics": [
+        "differentiation"
+      ],
+      "file": "page-tutorial-03-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-03-solutions-03.md"
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P4: Production differential versus actual change; P5: Chain rule for logarithmic and square-root functions",
+      "topics": [
+        "chain-hessian",
+        "differentiation"
+      ],
+      "file": "page-tutorial-03-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-03-solutions-04.md"
+    },
+    {
+      "source": "tutorial-03-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P5: Chain rule for logarithmic and square-root functions",
+      "topics": [
+        "chain-hessian",
+        "differentiation"
+      ],
+      "file": "page-tutorial-03-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-03-solutions-05.md"
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: First-order Taylor approximation of a logarithm; P2: Chain rule along a parametrised curve",
+      "topics": [
+        "chain-hessian",
+        "differentiation"
+      ],
+      "file": "page-tutorial-04-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-04-solutions-01.md"
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P2: Chain rule along a parametrised curve; P3: Implicit partial derivatives; P4: Tangent lines to implicit level curves",
+      "topics": [
+        "chain-hessian",
+        "graphs",
+        "implicit"
+      ],
+      "file": "page-tutorial-04-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-04-solutions-02.md"
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P4: Tangent lines to implicit level curves",
+      "topics": [
+        "graphs",
+        "implicit"
+      ],
+      "file": "page-tutorial-04-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-04-solutions-03.md"
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P4: Tangent lines to implicit level curves; P5: Hessian calculations",
+      "topics": [
+        "chain-hessian",
+        "graphs",
+        "implicit"
+      ],
+      "file": "page-tutorial-04-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-04-solutions-04.md"
+    },
+    {
+      "source": "tutorial-04-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P5: Hessian calculations; P6: Implicit total derivative on a sphere",
+      "topics": [
+        "chain-hessian",
+        "implicit"
+      ],
+      "file": "page-tutorial-04-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-04-solutions-05.md"
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Linear independence and span of vector families",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-tutorial-05-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-05-solutions-01.md"
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Linear independence and span of vector families",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-tutorial-05-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-05-solutions-02.md"
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P1: Linear independence and span of vector families; P2: Rank of three matrices; P3: Column-span characterisation of feasibility",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-tutorial-05-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-05-solutions-03.md"
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P3: Column-span characterisation of feasibility; P4: Linear-system feasibility and certificates",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-tutorial-05-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-05-solutions-04.md"
+    },
+    {
+      "source": "tutorial-05-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P4: Linear-system feasibility and certificates",
+      "topics": [
+        "linear-algebra"
+      ],
+      "file": "page-tutorial-05-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-05-solutions-05.md"
+    },
+    {
+      "source": "tutorial-06-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Cones, sub-cones and nonnegative feasibility",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-tutorial-06-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-06-solutions-01.md"
+    },
+    {
+      "source": "tutorial-06-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Cones, sub-cones and nonnegative feasibility; P2: A Farkas feasibility certificate; P3: Deriving inequality alternatives",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "file": "page-tutorial-06-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-06-solutions-02.md"
+    },
+    {
+      "source": "tutorial-06-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P3: Deriving inequality alternatives",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-tutorial-06-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-06-solutions-03.md"
+    },
+    {
+      "source": "tutorial-06-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P3: Deriving inequality alternatives; P4: A mixed-inequality alternative",
+      "topics": [
+        "farkas"
+      ],
+      "file": "page-tutorial-06-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-06-solutions-04.md"
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Convexity of sublevel sets from the definition; P2: Convexity of a separable sum",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-tutorial-07-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-07-solutions-01.md"
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P2: Convexity of a separable sum; P3: Convexity of intersecting constraint sets",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-tutorial-07-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-07-solutions-02.md"
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P3: Convexity of intersecting constraint sets; P4: Convexity and concavity by composition; P5: Strict convexity of a square from the definition",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-tutorial-07-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-07-solutions-03.md"
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P5: Strict convexity of a square from the definition; P6: Intersections of convex sets: extra practice",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-tutorial-07-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-07-solutions-04.md"
+    },
+    {
+      "source": "tutorial-07-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P6: Intersections of convex sets: extra practice",
+      "topics": [
+        "convexity"
+      ],
+      "file": "page-tutorial-07-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-07-solutions-05.md"
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Affine-inner composition, quadratic curvature and extrema",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-08-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-08-solutions-01.md"
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Affine-inner composition, quadratic curvature and extrema; P2: Logarithmic domain and absence of extrema",
+      "topics": [
+        "continuity",
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-08-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-08-solutions-02.md"
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P2: Logarithmic domain and absence of extrema; P3: Existence on a disk and a triangle",
+      "topics": [
+        "continuity",
+        "existence",
+        "graphs",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-08-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-08-solutions-03.md"
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P3: Existence on a disk and a triangle; P4: Quadratic profit and a global maximum",
+      "topics": [
+        "convexity",
+        "existence",
+        "graphs",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-08-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-08-solutions-04.md"
+    },
+    {
+      "source": "tutorial-08-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P4: Quadratic profit and a global maximum",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-08-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-08-solutions-05.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Graphical optimisation on different feasible sets",
+      "topics": [
+        "graphs",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-09-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-01.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Graphical optimisation on different feasible sets; P2: Juice-factory linear program, dual and resource values",
+      "topics": [
+        "duality",
+        "graphs",
+        "linear-programming",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-09-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-02.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P2: Juice-factory linear program, dual and resource values",
+      "topics": [
+        "duality",
+        "graphs",
+        "linear-programming"
+      ],
+      "file": "page-tutorial-09-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-03.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P2: Juice-factory linear program, dual and resource values; P3: A linear program and sensitivity",
+      "topics": [
+        "duality",
+        "graphs",
+        "linear-programming"
+      ],
+      "file": "page-tutorial-09-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-04.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P3: A linear program and sensitivity; P4: Duals with free variables and equalities; P5: Factory operating-cost minimisation and its dual",
+      "topics": [
+        "duality",
+        "linear-programming"
+      ],
+      "file": "page-tutorial-09-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-05.md"
+    },
+    {
+      "source": "tutorial-09-solutions",
+      "page": 6,
+      "printed_slide": null,
+      "title": "P5: Factory operating-cost minimisation and its dual",
+      "topics": [
+        "duality"
+      ],
+      "file": "page-tutorial-09-solutions-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-09-solutions-06.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Affine-constraint Lagrange cases",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-01.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Affine-constraint Lagrange cases; P2: Equality-circle constraint and existence",
+      "topics": [
+        "existence",
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-02.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P2: Equality-circle constraint and existence; P3: Log utility with a quadratic equality and multiplier interpretation",
+      "topics": [
+        "existence",
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-03.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P3: Log utility with a quadratic equality and multiplier interpretation",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-04.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 5,
+      "printed_slide": null,
+      "title": "P3: Log utility with a quadratic equality and multiplier interpretation",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-05.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 6,
+      "printed_slide": null,
+      "title": "P3: Log utility with a quadratic equality and multiplier interpretation; P4: Parameter-dependent disk constraint: extra practice",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-06.md"
+    },
+    {
+      "source": "tutorial-10-solutions",
+      "page": 7,
+      "printed_slide": null,
+      "title": "P4: Parameter-dependent disk constraint: extra practice",
+      "topics": [
+        "lagrange"
+      ],
+      "file": "page-tutorial-10-solutions-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-10-solutions-07.md"
+    },
+    {
+      "source": "tutorial-11-solutions",
+      "page": 1,
+      "printed_slide": null,
+      "title": "P1: Nonnegative KKT with linear constraints",
+      "topics": [
+        "kkt"
+      ],
+      "file": "page-tutorial-11-solutions-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-11-solutions-01.md"
+    },
+    {
+      "source": "tutorial-11-solutions",
+      "page": 2,
+      "printed_slide": null,
+      "title": "P1: Nonnegative KKT with linear constraints; P2: Cobb-Douglas choice and an increasing transformation",
+      "topics": [
+        "kkt",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-11-solutions-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-11-solutions-02.md"
+    },
+    {
+      "source": "tutorial-11-solutions",
+      "page": 3,
+      "printed_slide": null,
+      "title": "P2: Cobb-Douglas choice and an increasing transformation; P3: Quadratic concavity and KKT sufficiency",
+      "topics": [
+        "convexity",
+        "kkt",
+        "lagrange",
+        "unconstrained"
+      ],
+      "file": "page-tutorial-11-solutions-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-11-solutions-03.md"
+    },
+    {
+      "source": "tutorial-11-solutions",
+      "page": 4,
+      "printed_slide": null,
+      "title": "P3: Quadratic concavity and KKT sufficiency",
+      "topics": [
+        "convexity",
+        "kkt",
+        "lagrange"
+      ],
+      "file": "page-tutorial-11-solutions-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-tutorial-11-solutions-04.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 1,
+      "printed_slide": null,
+      "title": "Revision lecture",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-01.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 2,
+      "printed_slide": null,
+      "title": "Final-exam introduction",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-02.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 3,
+      "printed_slide": null,
+      "title": "Exam logistics",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-03.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 4,
+      "printed_slide": null,
+      "title": "Timing and answer-booklet instructions",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-04.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 5,
+      "printed_slide": null,
+      "title": "Coverage, weighting and permitted notes",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-05.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 6,
+      "printed_slide": null,
+      "title": "Question format and total marks",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-06.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 7,
+      "printed_slide": null,
+      "title": "Precision of mathematical statements",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-07.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 8,
+      "printed_slide": null,
+      "title": "Lecture notation and tutorial methods",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-08.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-08.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 9,
+      "printed_slide": null,
+      "title": "Past-paper limitations",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-09.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-09.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 10,
+      "printed_slide": null,
+      "title": "Recurring course themes",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-10.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-10.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 11,
+      "printed_slide": null,
+      "title": "Convexity and linear-system scope",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-11.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-11.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 12,
+      "printed_slide": null,
+      "title": "Closing slide",
+      "topics": [
+        "exam"
+      ],
+      "file": "page-revision-lecture-12.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-12.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 13,
+      "printed_slide": null,
+      "title": "Midpoint and membership in a line segment",
+      "topics": [
+        "convexity",
+        "exam"
+      ],
+      "file": "page-revision-lecture-13.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-13.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 14,
+      "printed_slide": null,
+      "title": "Point on a line but outside its segment",
+      "topics": [
+        "convexity",
+        "exam"
+      ],
+      "file": "page-revision-lecture-14.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-14.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 15,
+      "printed_slide": null,
+      "title": "Logarithm and square-root domain: half-disk",
+      "topics": [
+        "topology",
+        "continuity",
+        "graphs",
+        "exam"
+      ],
+      "file": "page-revision-lecture-15.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-15.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 16,
+      "printed_slide": null,
+      "title": "Reciprocal and square-root domain: excluded diagonal",
+      "topics": [
+        "topology",
+        "continuity",
+        "graphs",
+        "exam"
+      ],
+      "file": "page-revision-lecture-16.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-16.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 17,
+      "printed_slide": null,
+      "title": "Partial derivatives, Hessian and Young theorem",
+      "topics": [
+        "differentiation",
+        "chain-hessian",
+        "exam"
+      ],
+      "file": "page-revision-lecture-17.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-17.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 18,
+      "printed_slide": null,
+      "title": "Concave quadratic: critical point and global maximum",
+      "topics": [
+        "unconstrained",
+        "exam"
+      ],
+      "file": "page-revision-lecture-18.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-18.md"
+    },
+    {
+      "source": "revision-lecture",
+      "page": 19,
+      "printed_slide": null,
+      "title": "Linear dependence and rank-one example",
+      "topics": [
+        "linear-algebra",
+        "exam"
+      ],
+      "file": "page-revision-lecture-19.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/page-revision-lecture-19.md"
+    }
+  ],
+  "problems": [
+    {
+      "tutorial": 2,
+      "problem": 1,
+      "title": "Function statements and counterexamples",
+      "topics": [
+        "notation",
+        "continuity"
+      ],
+      "pages": [
+        1
+      ],
+      "file": "problem-tutorial-02-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-01.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 2,
+      "title": "Domains and level curves",
+      "topics": [
+        "continuity",
+        "graphs"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-02-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-02.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 3,
+      "title": "Continuity through projections and composition",
+      "topics": [
+        "continuity"
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "file": "problem-tutorial-02-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-03.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 4,
+      "title": "Production isoquants",
+      "topics": [
+        "graphs"
+      ],
+      "pages": [
+        3
+      ],
+      "file": "problem-tutorial-02-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-04.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 5,
+      "title": "Linear and affine functions",
+      "topics": [
+        "differentiation"
+      ],
+      "pages": [
+        4
+      ],
+      "file": "problem-tutorial-02-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-05.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 6,
+      "title": "Failure of continuous extension",
+      "topics": [
+        "continuity"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-02-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-06.md"
+    },
+    {
+      "tutorial": 2,
+      "problem": 7,
+      "title": "Continuous extension across a diagonal",
+      "topics": [
+        "continuity"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "file": "problem-tutorial-02-07.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-02-07.md"
+    },
+    {
+      "tutorial": 3,
+      "problem": 1,
+      "title": "Partial derivatives and evaluation",
+      "topics": [
+        "differentiation"
+      ],
+      "pages": [
+        1
+      ],
+      "file": "problem-tutorial-03-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-03-01.md"
+    },
+    {
+      "tutorial": 3,
+      "problem": 2,
+      "title": "Domain, gradient, level curves and continuous differentiability",
+      "topics": [
+        "continuity",
+        "differentiation",
+        "graphs"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-03-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-03-02.md"
+    },
+    {
+      "tutorial": 3,
+      "problem": 3,
+      "title": "A partial derivative from the definition",
+      "topics": [
+        "differentiation"
+      ],
+      "pages": [
+        3
+      ],
+      "file": "problem-tutorial-03-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-03-03.md"
+    },
+    {
+      "tutorial": 3,
+      "problem": 4,
+      "title": "Production differential versus actual change",
+      "topics": [
+        "differentiation"
+      ],
+      "pages": [
+        3,
+        4
+      ],
+      "file": "problem-tutorial-03-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-03-04.md"
+    },
+    {
+      "tutorial": 3,
+      "problem": 5,
+      "title": "Chain rule for logarithmic and square-root functions",
+      "topics": [
+        "differentiation",
+        "chain-hessian"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-03-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-03-05.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 1,
+      "title": "First-order Taylor approximation of a logarithm",
+      "topics": [
+        "differentiation"
+      ],
+      "pages": [
+        1
+      ],
+      "file": "problem-tutorial-04-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-01.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 2,
+      "title": "Chain rule along a parametrised curve",
+      "topics": [
+        "chain-hessian"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-04-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-02.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 3,
+      "title": "Implicit partial derivatives",
+      "topics": [
+        "implicit"
+      ],
+      "pages": [
+        2
+      ],
+      "file": "problem-tutorial-04-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-03.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 4,
+      "title": "Tangent lines to implicit level curves",
+      "topics": [
+        "implicit",
+        "graphs"
+      ],
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "file": "problem-tutorial-04-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-04.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 5,
+      "title": "Hessian calculations",
+      "topics": [
+        "chain-hessian"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-04-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-05.md"
+    },
+    {
+      "tutorial": 4,
+      "problem": 6,
+      "title": "Implicit total derivative on a sphere",
+      "topics": [
+        "implicit"
+      ],
+      "pages": [
+        5
+      ],
+      "file": "problem-tutorial-04-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-04-06.md"
+    },
+    {
+      "tutorial": 5,
+      "problem": 1,
+      "title": "Linear independence and span of vector families",
+      "topics": [
+        "linear-algebra"
+      ],
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "file": "problem-tutorial-05-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-05-01.md"
+    },
+    {
+      "tutorial": 5,
+      "problem": 2,
+      "title": "Rank of three matrices",
+      "topics": [
+        "linear-algebra"
+      ],
+      "pages": [
+        3
+      ],
+      "file": "problem-tutorial-05-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-05-02.md"
+    },
+    {
+      "tutorial": 5,
+      "problem": 3,
+      "title": "Column-span characterisation of feasibility",
+      "topics": [
+        "linear-algebra"
+      ],
+      "pages": [
+        3,
+        4
+      ],
+      "file": "problem-tutorial-05-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-05-03.md"
+    },
+    {
+      "tutorial": 5,
+      "problem": 4,
+      "title": "Linear-system feasibility and certificates",
+      "topics": [
+        "linear-algebra"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-05-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-05-04.md"
+    },
+    {
+      "tutorial": 6,
+      "problem": 1,
+      "title": "Cones, sub-cones and nonnegative feasibility",
+      "topics": [
+        "farkas",
+        "graphs"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-06-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-06-01.md"
+    },
+    {
+      "tutorial": 6,
+      "problem": 2,
+      "title": "A Farkas feasibility certificate",
+      "topics": [
+        "farkas"
+      ],
+      "pages": [
+        2
+      ],
+      "file": "problem-tutorial-06-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-06-02.md"
+    },
+    {
+      "tutorial": 6,
+      "problem": 3,
+      "title": "Deriving inequality alternatives",
+      "topics": [
+        "farkas"
+      ],
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "file": "problem-tutorial-06-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-06-03.md"
+    },
+    {
+      "tutorial": 6,
+      "problem": 4,
+      "title": "A mixed-inequality alternative",
+      "topics": [
+        "farkas"
+      ],
+      "pages": [
+        4
+      ],
+      "file": "problem-tutorial-06-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-06-04.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 1,
+      "title": "Convexity of sublevel sets from the definition",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        1
+      ],
+      "file": "problem-tutorial-07-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-01.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 2,
+      "title": "Convexity of a separable sum",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-07-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-02.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 3,
+      "title": "Convexity of intersecting constraint sets",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "file": "problem-tutorial-07-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-03.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 4,
+      "title": "Convexity and concavity by composition",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        3
+      ],
+      "file": "problem-tutorial-07-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-04.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 5,
+      "title": "Strict convexity of a square from the definition",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        3,
+        4
+      ],
+      "file": "problem-tutorial-07-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-05.md"
+    },
+    {
+      "tutorial": 7,
+      "problem": 6,
+      "title": "Intersections of convex sets: extra practice",
+      "topics": [
+        "convexity"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-07-06.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-07-06.md"
+    },
+    {
+      "tutorial": 8,
+      "problem": 1,
+      "title": "Affine-inner composition, quadratic curvature and extrema",
+      "topics": [
+        "convexity",
+        "unconstrained"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-08-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-08-01.md"
+    },
+    {
+      "tutorial": 8,
+      "problem": 2,
+      "title": "Logarithmic domain and absence of extrema",
+      "topics": [
+        "unconstrained",
+        "continuity"
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "file": "problem-tutorial-08-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-08-02.md"
+    },
+    {
+      "tutorial": 8,
+      "problem": 3,
+      "title": "Existence on a disk and a triangle",
+      "topics": [
+        "existence",
+        "graphs"
+      ],
+      "pages": [
+        3,
+        4
+      ],
+      "file": "problem-tutorial-08-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-08-03.md"
+    },
+    {
+      "tutorial": 8,
+      "problem": 4,
+      "title": "Quadratic profit and a global maximum",
+      "topics": [
+        "unconstrained",
+        "convexity"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-08-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-08-04.md"
+    },
+    {
+      "tutorial": 9,
+      "problem": 1,
+      "title": "Graphical optimisation on different feasible sets",
+      "topics": [
+        "unconstrained",
+        "graphs"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-09-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-09-01.md"
+    },
+    {
+      "tutorial": 9,
+      "problem": 2,
+      "title": "Juice-factory linear program, dual and resource values",
+      "topics": [
+        "linear-programming",
+        "duality",
+        "graphs"
+      ],
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "file": "problem-tutorial-09-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-09-02.md"
+    },
+    {
+      "tutorial": 9,
+      "problem": 3,
+      "title": "A linear program and sensitivity",
+      "topics": [
+        "linear-programming",
+        "duality"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "file": "problem-tutorial-09-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-09-03.md"
+    },
+    {
+      "tutorial": 9,
+      "problem": 4,
+      "title": "Duals with free variables and equalities",
+      "topics": [
+        "duality"
+      ],
+      "pages": [
+        5
+      ],
+      "file": "problem-tutorial-09-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-09-04.md"
+    },
+    {
+      "tutorial": 9,
+      "problem": 5,
+      "title": "Factory operating-cost minimisation and its dual",
+      "topics": [
+        "duality"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "file": "problem-tutorial-09-05.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-09-05.md"
+    },
+    {
+      "tutorial": 10,
+      "problem": 1,
+      "title": "Affine-constraint Lagrange cases",
+      "topics": [
+        "lagrange"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-10-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-10-01.md"
+    },
+    {
+      "tutorial": 10,
+      "problem": 2,
+      "title": "Equality-circle constraint and existence",
+      "topics": [
+        "lagrange",
+        "existence"
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "file": "problem-tutorial-10-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-10-02.md"
+    },
+    {
+      "tutorial": 10,
+      "problem": 3,
+      "title": "Log utility with a quadratic equality and multiplier interpretation",
+      "topics": [
+        "lagrange"
+      ],
+      "pages": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "file": "problem-tutorial-10-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-10-03.md"
+    },
+    {
+      "tutorial": 10,
+      "problem": 4,
+      "title": "Parameter-dependent disk constraint: extra practice",
+      "topics": [
+        "lagrange"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "file": "problem-tutorial-10-04.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-10-04.md"
+    },
+    {
+      "tutorial": 11,
+      "problem": 1,
+      "title": "Nonnegative KKT with linear constraints",
+      "topics": [
+        "kkt"
+      ],
+      "pages": [
+        1,
+        2
+      ],
+      "file": "problem-tutorial-11-01.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-11-01.md"
+    },
+    {
+      "tutorial": 11,
+      "problem": 2,
+      "title": "Cobb-Douglas choice and an increasing transformation",
+      "topics": [
+        "kkt",
+        "unconstrained"
+      ],
+      "pages": [
+        2,
+        3
+      ],
+      "file": "problem-tutorial-11-02.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-11-02.md"
+    },
+    {
+      "tutorial": 11,
+      "problem": 3,
+      "title": "Quadratic concavity and KKT sufficiency",
+      "topics": [
+        "lagrange",
+        "kkt",
+        "convexity"
+      ],
+      "pages": [
+        3,
+        4
+      ],
+      "file": "problem-tutorial-11-03.md",
+      "raw": "https://raw.githubusercontent.com/AceKernel/v-7e2c8d49a6f1/main/problem-tutorial-11-03.md"
+    }
+  ]
+}
